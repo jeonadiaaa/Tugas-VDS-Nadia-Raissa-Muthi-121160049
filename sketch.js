@@ -7,7 +7,7 @@ function setup() {
     background(204,153,255);
     strokeWeight(5);
     line(200,0,200,200)
-    stroke(0,0,0) 
+    stroke(0,0,0)
 
     x = 300;
     y = 100;
